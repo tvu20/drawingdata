@@ -25,8 +25,20 @@ class App extends Component {
     this.handleIndex = this.handleIndex.bind(this);
   }
 
-  handleCallback = (show, i) => {
-    this.setState({ showing: show, index: i });
+  isShowing = i => {
+    var show = this.state.showing;
+    if (i !== this.state.index) {
+      return false;
+    } else {
+      return show;
+    }
+  };
+
+  handleCallback = i => {
+    this.setState({
+      showing: !this.state.showing,
+      index: i,
+    });
   };
 
   handleIndex(event) {
@@ -34,14 +46,14 @@ class App extends Component {
   }
 
   renderFlowers = () => {
-    const { items, index } = this.state;
+    const { items, index, showing } = this.state;
     return (
       <div className='picContainer'>
         {items.map(user => (
           <Picture
             key={user.id}
             value={user.id}
-            showing={index === user.id}
+            showing={this.isShowing(user.id)}
             parentCallback={this.handleCallback}
           />
         ))}

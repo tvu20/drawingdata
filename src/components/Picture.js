@@ -4,7 +4,6 @@ class Picture extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      isToggleOn: true,
       id: this.props.value,
       color: "#fff",
     };
@@ -12,19 +11,8 @@ class Picture extends Component {
     this.handleClick = this.handleClick.bind(this);
   }
 
-  toggle = () => {
-    const { isToggleOn } = this.state;
-    this.setState(state => ({
-      isToggleOn: !isToggleOn,
-      color: isToggleOn ? "#D18933" : "#fff",
-    }));
-  };
-
   handleClick = () => {
-    this.toggle();
-    const { isToggleOn, id } = this.state;
-
-    this.props.parentCallback(isToggleOn, id);
+    this.props.parentCallback(this.state.id);
   };
 
   render() {
@@ -41,7 +29,7 @@ class Picture extends Component {
       >
         <g id='Layer_2'>
           <g>
-            <g fill={color}>
+            <g fill={this.props.showing ? "#D18933" : "#fff"}>
               <path
                 class='st0'
                 d='M117.91,123.94c2.32,2.95,5.02,5.43,8.33,7.24c1.27,0.7,2.58,1.31,3.8,2.11c0.67,0.44,1.51,0.67,2.3,0.88
