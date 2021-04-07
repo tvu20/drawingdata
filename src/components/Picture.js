@@ -5,20 +5,26 @@ class Picture extends Component {
     super(props);
     this.state = {
       isToggleOn: true,
+      id: this.props.value,
       color: "#fff",
     };
 
     this.handleClick = this.handleClick.bind(this);
   }
 
-  handleClick = () => {
-    const { isToggleOn, color } = this.state;
+  toggle = () => {
+    const { isToggleOn } = this.state;
     this.setState(state => ({
       isToggleOn: !isToggleOn,
       color: isToggleOn ? "#61DAFB" : "#fff",
     }));
+  };
 
-    this.props.parentCallback(isToggleOn);
+  handleClick = () => {
+    this.toggle();
+    const { isToggleOn, id } = this.state;
+
+    this.props.parentCallback(isToggleOn, id);
   };
 
   render() {
@@ -31,7 +37,7 @@ class Picture extends Component {
         height='200px'
         x='0px'
         y='0px'
-        onClick={this.handleClick}
+        onClick={() => this.handleClick()}
       >
         <g id='Layer_2'>
           <g>

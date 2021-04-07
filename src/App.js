@@ -8,23 +8,43 @@ class App extends Component {
     super(props);
     this.state = {
       showing: null,
+      items: [],
+      index: -1,
     };
 
+    fetch("data.json")
+      .then(res => res.json())
+      .then(json => {
+        this.setState({
+          isLoaded: true,
+          items: json,
+        });
+      });
+
     this.handleCallback = this.handleCallback.bind(this);
+    this.handleIndex = this.handleIndex.bind(this);
   }
 
-  handleCallback = childData => {
-    this.setState({ showing: childData });
+  handleCallback = (show, i) => {
+    this.setState({ showing: show, index: i });
   };
 
+  handleIndex(event) {
+    this.setState({ index: event.target.value });
+  }
+
   renderBox = () => {
+    const { items, index } = this.state;
+    const selected = items[index];
+
     if (this.state.showing) {
       return (
         <InfoBox
-          key='0'
-          group='Kinh'
-          population='82,085,826'
-          location='Throughout Vietnam'
+          key={selected.id}
+          group={selected.group}
+          population={selected.population}
+          location={selected.location}
+          description={selected.description}
         />
       );
     }
@@ -35,7 +55,8 @@ class App extends Component {
     return (
       <div className='container'>
         <h1>Hello world!</h1>
-        <Picture parentCallback={this.handleCallback} />
+        <Picture value='0' parentCallback={this.handleCallback} />
+        <Picture value='1' parentCallback={this.handleCallback} />
 
         {this.renderBox()}
       </div>
