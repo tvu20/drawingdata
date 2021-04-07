@@ -1,25 +1,46 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import "./App.css";
+import InfoBox from "./components/InfoBox.js";
+import Picture from "./components/Picture.js";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      showing: null,
+    };
+
+    this.handleCallback = this.handleCallback.bind(this);
+  }
+
+  handleCallback = childData => {
+    this.setState({ showing: childData });
+  };
+
+  renderBox = () => {
+    if (this.state.showing) {
+      return (
+        <InfoBox
+          key='0'
+          group='Kinh'
+          population='82,085,826'
+          location='Throughout Vietnam'
+        />
+      );
+    }
+  };
+
+  render() {
+    const { showing } = this.state;
+    return (
+      <div className='container'>
+        <h1>Hello world!</h1>
+        <Picture parentCallback={this.handleCallback} />
+
+        {this.renderBox()}
+      </div>
+    );
+  }
 }
 
 export default App;
