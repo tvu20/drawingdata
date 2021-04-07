@@ -16,7 +16,7 @@ class Picture extends Component {
     const { isToggleOn } = this.state;
     this.setState(state => ({
       isToggleOn: !isToggleOn,
-      color: isToggleOn ? "#61DAFB" : "#fff",
+      color: isToggleOn ? "#D18933" : "#fff",
     }));
   };
 
