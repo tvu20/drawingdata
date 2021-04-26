@@ -1,15 +1,34 @@
 import React, { Component } from "react";
-import ReactDOM from "react-dom";
+import images from "../images.js";
+import "../styles/people.css";
 
 class People extends Component {
-  importAll(r) {
-    return r.keys().map(r);
+  constructor(props) {
+    super(props);
+    this.state = {
+      id: this.props.value,
+    };
+
+    this.handleClick = this.handleClick.bind(this);
   }
+
+  handleClick = i => {
+    this.props.parentCallback(i);
+  };
 
   render() {
     return (
-      <div>
-        <img key={1} src={require("../assets/slices/1.jpg")} alt='info'></img>
+      <div className='people-container'>
+        {images.map((index, i) => {
+          return (
+            <img
+              key={i}
+              src={index}
+              className='child'
+              onClick={() => this.handleClick(i)}
+            ></img>
+          );
+        })}
       </div>
     );
   }

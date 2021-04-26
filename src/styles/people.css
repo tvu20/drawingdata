@@ -1,0 +1,18 @@
+.people-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-flow: row wrap;
+  position: relative;
+  justify-content: stretch;
+  align-items: stretch;
+}
+
+.child {
+  flex: 1 1 10%; /* <-- adjusting for margin */
+  border: 1px solid black;
+  min-width: 0px;
+  width: auto;
+  height: auto;
+  object-fit: cover;
+}

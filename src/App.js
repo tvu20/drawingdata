@@ -46,22 +46,6 @@ class App extends Component {
     this.setState({ index: event.target.value });
   }
 
-  renderFlowers = () => {
-    const { items, index, showing } = this.state;
-    return (
-      <div className='picContainer'>
-        {items.map(user => (
-          <Picture
-            key={user.id}
-            value={user.id}
-            showing={this.isShowing(user.id)}
-            parentCallback={this.handleCallback}
-          />
-        ))}
-      </div>
-    );
-  };
-
   renderBox = () => {
     const { items, index } = this.state;
     const selected = items[index];
@@ -83,7 +67,8 @@ class App extends Component {
     const { showing, items } = this.state;
     return (
       <div className='container'>
-        <h1>Hello world!</h1>
+        <People parentCallback={this.handleCallback}></People>
+        {this.renderBox()}
       </div>
     );
   }
