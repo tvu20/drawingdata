@@ -1,160 +1,35 @@
 [
   {
     "id": 0,
-    "group": "Kinh",
-    "art": "kinh.png",
-    "population": "82,085,826",
-    "location": "Throughout Vietnam",
-    "description": "The Kinh people or Viet people, the most predominant ethnic group, accounts for 87% of the population in Vietnam. They live in most regions of the country. Kinh people primarily use the official language of Vietnam, Vietnamese; however, depending on the region, Vietnamese words are pronounced and used in different ways. In Vietnamese society, Kinh people have played a vital part in forming Vietnamese culture and tradition, as well as developing the economy.",
-    "link": "https://en.wikipedia.org/wiki/Vietnamese_people"
+    "group": "Thái",
+    "art": "1.png",
+    "population": "1,820,950",
+    "location": "Northern Vietnam",
+    "description": "The Thái people are the third largest ethnic group in Vietnam, after the majority Kinh group and the Tay people. There are around 93 million people of Tai ancestry worldwide, with populations scattered throughout South China and mainland Southeast Asia. Tai peoples are both culturally and genetically very similar, and are therefore primarily identified through their common Tai language. Thái literature and art are partly influenced by those of the Việt and, to a lesser extent, by those of the Lào and Hán.",
+    "link": "https://en.wikipedia.org/wiki/Tai_peoples"
   },
   {
     "id": 1,
-    "group": "Chứt",
-    "art": "chut.png",
-    "population": "7,513",
-    "location": "Quảng Bình",
-    "description": "The Chut are a small ethnic group located in the Minh Hóa and Tuyên Hóa districts of Quảng Bình Province, in Vietnam's North Central Coast. The Chut are one of the 4 main groups of Vietic speakers in Vietnam, the others being the Kinh, Muong, and Thổ. Though most Chut people live a sedentary life, their villages are quite far from each other and their houses are temporary. Each lineage has its leader and an altar to worship their common ancestors."
+    "group": "La Chí",
+    "art": "2.png",
+    "population": "15,126",
+    "location": "Hà Giang",
+    "description": "The La Chí people live in the Hà Giang and Lào Cai provinces of northeastern Vietnam. They speak the Lachi language, which is part of the Tai–Kadai language group. The La Chi have a very rich heritage of folk literature, including legends and tales about the creation of man (such as Pủ Lô Tô), the origins of this ethnic group (the history of common ancestor Hoàng Din Thùng), natural phenomena, and the rituals of sacrificing buffaloes and oxen at funerals Young people enjoy listening to legends related by elders during festivals.",
+    "link": "https://en.wikipedia.org/wiki/Lachi_people"
   },
   {
     "id": 2,
-    "group": "Mường",
-    "art": "muong.png",
-    "population": "1,452,095",
-    "location": "Hòa Bình, Thanh Hóa, Phú Thọ, Sơn La, Hà Nội, Ninh Bình",
-    "description": "The Muong is Vietnam's third largest of 53 minority groups, with an estimated population of 1.45 million (according to the 2019 census). The Muong people inhabit the mountainous region of northern Vietnam, concentrated in Hòa Bình Province and the mountainous districts of Thanh Hóa Province. They are most closely related to the ethnic Vietnamese (Kinh).",
-    "link": "https://en.wikipedia.org/wiki/Muong_people"
+    "group": "Sán Dìu",
+    "art": "3.png",
+    "population": "183,004",
+    "location": "Thái Nguyên, Vĩnh Phúc, Bắc Giang, Quảng Ninh",
+    "description": "The Sán Dìu people are a Yao ethnic group in northern Vietnam who speak Yue Chinese (Cantonese), a Chinese language. Although the Vietnamese government classifies San Diu as an independent group, the San Diu people are originally a part of Chinese people in Vietnam. They speak a variant of Cantonese, and it is suggested that some still speak Iu Mien. The major religions are Mahayana Buddhism and Taoism, with elements of animism and veneration of the dead.",
+    "link": "https://en.wikipedia.org/wiki/San_Diu_people"
   },
   {
     "id": 3,
-    "group": "Thổ",
-    "art": "tho.png",
-    "population": "91,430",
-    "location": "Nghệ An, Thanh Hóa",
-    "description": "The Thổ ethnic group (also Keo, Mon, Cuoi, Ho, Tay Poong) inhabits the mountainous regions of northern Vietnam, mainly Nghệ An Province southwest of Hanoi. Many Thổ speak the Tho language, which is closely related to Vietnamese. The Tho worship innumerable genies and spirits. They also have great respect for pioneers who have made contributions to the clearing of the land and the building of the village, and for the numerous war heroes.",
-    "link": "https://en.wikipedia.org/wiki/Th%E1%BB%95_people"
-  },
-  {
-    "id": 4,
-    "group": "Ba Na",
-    "art": "ba-na.png",
-    "population": "286,910",
-    "location": "Gia Lai, Kon Tum, Bình Định",
-    "description": "The Bahnar of Ba-Na are an ethnic group of Vietnam living primarily in the Central Highland provinces of Gia Lai and Kon Tum, as well as the coastal provinces of Bình Định and Phú Yên. They speak the Bahnar language that belongs to the Mon–Khmer language family. Their musical instruments are rich with various combinations of gong sets, t’rung xylophones, bro, klong put, ko ni, khinh khung, and to tiep trumpets. The aesthetics of the Ba Na are in their unique wood carvings and extraordinary decorative crafts.",
-    "link": "https://en.wikipedia.org/wiki/Bahnar_people"
-  },
-  {
-    "id": 5,
-    "group": "Brâu",
-    "art": "brau.png",
-    "population": "525",
-    "location": "Kon Tum, Hồ Chí Minh City, Đồng Nai",
-    "description": "The Brau people are an ethnic group living in Laos, Cambodia, and Vietnam. They speak Brao, a Mon–Khmer language. The Brau have only two surnames: Thao (for male) and Nang (for female). They have customs such as uốt bưng (filing teeth), tavattơpit (strain ears), and chingkrackang (tattoo on forehead). The Brau like to play the gongs and traditional musical instruments. In particular, a set of two gongs called the 'chieng tha' has great value in their culture",
-    "link": "https://en.wikipedia.org/wiki/Brau_people"
-  },
-  {
-    "id": 4,
-    "group": "Bru Vân Kiều",
-    "art": "bru-van-kieu.png",
-    "population": "94,598",
-    "location": "Quảng Trị, Quảng Bình, Đăk Lăk",
-    "description": "The Bru Van Kieu are an ethnic group living in Thailand, Laos, and Vietnam. The Bru speak Bru, a Katuic Mon–Khmer language, which has several dialects. Villages are usually located near rivers or streams, and houses are arranged in circles around a communal house. Ancestor worship is the most common religious activity, and Bru people pay respects to sacred objects such as sword or bowl fragments. They also worship fire and kitchen deities.",
-    "link": "https://en.wikipedia.org/wiki/Bru_people"
-  },
-  {
-    "id": 4,
-    "group": "Chơ Ro",
-    "art": "cho-ro.png",
-    "population": "29,520",
-    "location": "Đồng Nai, Bà Rịa-Vũng Tàu, Bình Thuận",
-    "description": "The Chơ Ro are a Mon–Khmer ethnic group in Vietnam. They live in houses built on stilts. Both patriarchal and matriarchal customs are significant in Cho Ro culture. Cho Ro people believe  all things have souls and spirits. These spirits have an invisible control over humans, forcing them to participate in worshipping rituals, the most important of which being one paying respect to souls of the forest and the rice plant.",
-    "link": "https://en.wikipedia.org/wiki/Cho_Ro_people"
-  },
-  {
-    "id": 4,
-    "group": "Co",
-    "art": "co.png",
-    "population": "40,442",
-    "location": "Quảng Ngãi, Quảng Nam",
-    "description": "The Co, or Cor people, are an ethnic group of Vietnam. The Cor believe that all things have souls, including good spirits (garu) and bad spirits. In the past, the Cor lived in houses built on stilts called X'lup, but recently they have transitioned to ground level houses. In the past, all Cor people took the family name of Dinh. Today, due to their respect for former Preseident Ho Chi Minh, all Cor use his name as their official name on their Vietnamese identity papers.",
-    "link": "https://en.wikipedia.org/wiki/Cor_people"
-  },
-  {
-    "id": 4,
-    "group": "Cờ Ho",
-    "art": "co-ho.png",
-    "population": "200,800",
-    "location": "Lâm Đồng, Bình Thuận",
-    "description": "The Cơ Ho people are an ethnic group living in the Lâm Đồng province of Vietnam's Central Highlands. They speak the Co Ho language, a southern Bahnaric branch of Mon–Khmer language. The Co Ho people's folk religion worships a pantheon of gods, including Yang N'Du, the Supreme God, the forest god, the water god, and the fire god. The majority of the Koho people now identify as Christian.",
-    "link": "https://en.wikipedia.org/wiki/Koho_people"
-  },
-  {
-    "id": 4,
-    "group": "Cơ Tu",
-    "art": "co-tu.png",
-    "population": "74,173",
-    "location": "Quảng Nam, Thừa Thiên-Huế",
-    "description": "The Cơ Tu people are an ethnic group who live in eastern Laos and central Vietnam. The Co Tu people typically serve rice cooked in bamboo stems such as zăr, aví hor, koo dep, koo gdhoong, and cha chắc, and drink a beverage called tavak. Their famous dances are tung tung (performed by males) and ya yá (performed by females). Traditional Katu homes are on stilts and those who live on the Laotian border are known for growing jute and weaving.",
-    "link": "https://en.wikipedia.org/wiki/Katu_people"
-  },
-  {
-    "id": 4,
-    "group": "Giẻ Triêng",
-    "art": "gie-trieng.png",
-    "population": "63,322",
-    "location": "Kon Tum, Quảng Nam",
-    "description": "The Gie Trieng people are an ethnic group in Vietnam who live in Vietnam's Central Highlands region. A Gie Trieng village is led by a patriarch, a respected man with profound knowledge of the group’s history, culture, and lifestyle. The Gie Trieng are polytheists and believe that all things have souls and that the Jade Emperor has the supreme power to control everything. They have several rituals for worshiping the Jade Emperor, the communal house, and new rice.",
-    "link": "https://en.wikipedia.org/wiki/Gie_Trieng_people"
-  },
-  {
-    "id": 4,
-    "group": "Hrê",
-    "art": "hre.png",
-    "population": "149,460",
-    "location": "Quảng Ngãi, Bình Định",
-    "description": "The Hrê people are an ethnic group of Vietnam that speak a language in the Mon–Khmer family. A Hrê village, an autonomous social unit, sometimes includes up to 100 families. The village chief, elected by the villagers, must be of a certain age, and have not only the requừed moral virtues but also the necessary knowledge and considerable wealth. The Hrê have a long history of patriotic struggle, participating in the Tây Sơn movement and the anti-colonialist resistance.",
-    "link": "https://en.wikipedia.org/wiki/H%27re_people"
-  },
-  {
-    "id": 4,
-    "group": "Kháng",
-    "art": "khang.png",
-    "population": "16,180",
-    "location": "Sơn La, Điện Biên",
-    "description": "The Kháng people are an Austro-Asiatic ethnic group located in northwestern Vietnam. Khang cuisine is known for its hot and sour dishes, and Khang people have the custom named \"tu mui\", which involves drinking by the nose. They grow and exchange raw cotton for cloth or garments made by the Thái. Married women wear their hair in a knot atop their head, while men let their hair fall freely to the shoulders or wear it in a knot at the back of the neck.",
-    "link": "https://en.wikipedia.org/wiki/Khang_people"
-  },
-  {
-    "id": 4,
-    "group": "Khmer",
-    "art": "khmer.png",
-    "population": "1,319,652",
-    "location": "Sóc Trăng, Trà Vinh, Kiên Giang, An Giang, Bạc Liêu, Bình Dương, Hồ Chí Minh City, Cà Mau, Đồng Nai, Vĩnh Long",
-    "description": "Khmer people are a Southeast Asian ethnic group native to Cambodia, but a significant population reside within the Mekong Delta region of Vietnam. They speak the Khmer language, which is part of the larger Austroasiatic language family found in parts of Southeast Asia. The majority of Khmers are followers of the Khmer style of Buddhism, a highly syncretic version that blends elements of Theravada Buddhism, Hinduism, animism, and veneration of the dead",
-    "link": "https://en.wikipedia.org/wiki/Khmer_people"
-  },
-  {
-    "id": 4,
-    "group": "Khơ Mú",
-    "art": "kho-mu.png",
-    "population": "90,612",
-    "location": "Nghệ An, Điện Biên, Sơn La, Lai Châu, Yên Bái",
-    "description": "The Khơ Mú are an ethnic group of Southeast Asia native to Laos. The Khmu are an agricultural society, although gathering, hunting, trapping and fishing are parts of the Khmu lifestyle. Khmu culture is traditionally passed down by the recital of stories around evening fires. The story-telling sessions involve the sharing of silver pipes. Some Khmu are heavily tattooed for both decorative and religious reasons.",
-    "link": "https://en.wikipedia.org/wiki/Khmu_people"
-  },
-  {
-    "id": 4,
-    "group": "Mạ",
-    "art": "ma.png",
-    "population": "50,322",
-    "location": "Lâm Đồng, Đắk Nông, Đồng Nai",
-    "description": "The Mạ people are a Mon–Khmer-speaking people in Vietnam. The Mon-Khmer-speaking group called Cho Ro is identified by some ethnologists as a subgroup of the Ma people. Folklore through myths, parables, and legends are integral to Ma culture. The Ma achieved political unity and a stratified society before the 19th century due to the influence of the Funan. This, however, broke down due to varying factors such as the French colonization, inter-group warfare, and slave trading.",
-    "link": "https://en.wikipedia.org/wiki/M%E1%BA%A1_people"
-  },
-  {
-    "id": 4,
     "group": "Mảng",
-    "art": "mang.png",
+    "art": "4.png",
     "population": "4,650",
     "location": "Lai Châu",
     "description": "The Mảng people are an ethnic group living primarily in Lai Châu, located in northwestern Vietnam. The Mảng are animists and worship their ancestors. In their cosmogonist concepts, the universe and human beings were created by Môn Ten (God-Creator), and the universe is divided into four \"strata\", the uppermost being the country of deities, earth being the country of human beings, underground being the country of demons, and water being the country of dragons.",
@@ -162,326 +37,451 @@
   },
   {
     "id": 4,
-    "group": "Mnông",
-    "art": "mnong.png",
-    "population": "127,334",
-    "location": "Đăk Nông, Đăk Lăk, Bình Phước, Lâm Đồng",
-    "description": "The Mnong people are an ethnic group from Vietnam and Cambodia. Mnông villages are generally established at the foot of a mountain, by a river, a stream, or a lake which supplies water for daily use. Traditionally, Mnong people in remote regions eat with their hands and place food within bamboo tubes. Their ordinary diet includes dried fish, small game, and wild vegetables. They rear animals (buffaloes, pigs, chickens and ducks) primarily for sacrificial purposes.",
-    "link": "https://en.wikipedia.org/wiki/Mnong_people"
-  },
-  {
-    "id": 4,
-    "group": "Ơ Đu",
-    "art": "odu.png",
-    "population": "428",
-    "location": "Nghệ An",
-    "description": "Since their population is very small, members of the Ơ Đu ethnic group are being integrated into larger communities. Many Ơ Đu people have forgotten their mother tongue, making those who still know it well respected. After reaching a certain age, many Ơ Đu want to relearn their language to \"return to their roots\". This desire also manifests through recalling ancestral methods and retelling legends connected with the names of villages, rivers, streams and other vestiges in the forest.",
-    "link": "https://en.wikipedia.org/wiki/O_Du_people"
-  },
-  {
-    "id": 4,
-    "group": "Rơ Măm",
-    "art": "ro-mam.png",
-    "population": "639",
-    "location": "Kon Tum",
-    "description": "The Ro Mam people are a small ethnic group in Vietnam. They speak a language in the Central Bahnaric branch of the Mon–Khmer family. For the Ro mam, it is a rule that the descendants of the same couple live under the same roof. But each nuclear family forms its own economic unit, cultivates its own milpas, rears its own animals, and eats separately. Hunting, Gathering, Agriculture, and Weaving are the main sources of wealth in current Ro Mam society.",
-    "link": "https://en.wikipedia.org/wiki/R%C6%A1_M%C4%83m_people"
-  },
-  {
-    "id": 4,
-    "group": "Tà Ôi",
-    "art": "ta-oi.png",
-    "population": "52,356",
-    "location": "Thừa Thiên-Huế, Quảng Trị",
-    "description": "The Ta-oi ethnic group speaks a language in the Mon–Khmer language family, and is regarded as one of Vietnam's indigenous groups. Fundamental to Ta Oi spiritual life is animism, the belief that natural objects are animated by spirits. Things in nature may all have within them different spirits—each rock, tree, and cloud may have its own unique spirit. Spirits are individual supernatural beings with their own recognizable traits.",
-    "link": "https://en.wikipedia.org/wiki/Ta_Oi_people"
-  },
-  {
-    "id": 4,
-    "group": "Xinh Mun",
-    "art": "xinh-mun.png",
-    "population": "29,503",
-    "location": "Sơn La, Điện Biên",
-    "description": "The Xinh Mui are an ethnic group in Vietnam and Laos. Women and children undertake food gathering, while men go hunting to improve their daily meals. Animal rearing supplies sacrificial offerings to deities and contributes to production. Oxen and buffaloes are generally allowed to wander at will, except the time of ploughing. Barter is the main form of goods exchange: basketry articles, rice, opium and others for cloth, salt, matches and fire-arms.",
-    "link": "https://en.wikipedia.org/wiki/Ksingmul_people"
-  },
-  {
-    "id": 4,
-    "group": "Xơ Đăng",
-    "art": "xo-dang.png",
-    "population": "212,277",
-    "location": "Kon Tum, Quảng Nam, Quảng Ngãi, Đắk Lắk",
-    "description": "The Xo Dang are an ethnic group of Vietnam. Their main source of income is farming, but before the 20th century, mostly relied on hunting and gathering. Their language is part of the Mon–Khmer language family. The spiritual life of the Xo Dang adheres to the cycle of agricultural production. Rituals of a religious nature are concentrated in two periods: the time of land working and allotment of slash-and-burn land, and harvest time.",
-    "link": "https://en.wikipedia.org/wiki/Xo_Dang_people"
-  },
-  {
-    "id": 4,
-    "group": "X’Tiêng",
-    "art": "xtieng.png",
-    "population": "100,752",
-    "location": "Bình Phước",
-    "description": "The Xtiêng people are an ethnic group of Vietnam and Cambodia. The Xtiêng go hunting and gathering for supplementary foods as rice production is difficult and largely dependent on natural conditions. The Xtiêng are masters in the art of fishing and hunting. Fishing is an intensive activity in the rainy season; fish are killed with knives or pointed sticks, or shot at with poisoned arrows. The Xtiêng also catch fish by damming streams, using nets or traps, snares or poisoned arrows.",
-    "link": "https://en.wikipedia.org/wiki/Stieng_people"
-  },
-  {
-    "id": 4,
-    "group": "Bố Y",
-    "art": "bo-y.png",
-    "population": "3,232",
-    "location": "Lào Cai, Hà Giang",
-    "description": "The Bố Y people, otherwise known as the Zhongjia, are an ethnic group native to Southern Mainland China, but a subset live in Northern Vietnam. Buddhism, Taoism, and Confucianism exert a strong influence on the spiritual life and every activity of Bo Y society. The Bo Y worship heaven, earth, ancestors, the genies of mountains, soil and forest, Kwan Yin, Hà Bâ (Emperor of Waters), and the spirits of streams, milpas and fire.",
-    "link": "https://en.wikipedia.org/wiki/Bouyei_people"
-  },
-  {
-    "id": 4,
-    "group": "Giáy",
-    "art": "giay.png",
-    "population": "67,858",
-    "location": "Lào Cai, Hà Giang, Lai Châu, Yên Bá",
-    "description": "The Giáy people, occasionally called the Nhang, are an ethnic group in Vietnam. The Giáy speak the Bo Y language, a member of the Tai language family. Literacy is low in their native language; however, most Giáy can also speak and write Vietnamese, which they learn in primary school. The Giáy traditionally cultivate rice in paddy fields using simple technology. Water buffalo are raised as draft animals and are used to plow the land.",
-    "link": "https://en.wikipedia.org/wiki/Gi%C3%A1y_people"
-  },
-  {
-    "id": 4,
-    "group": "Lào",
-    "art": "lao.png",
-    "population": "17,532",
-    "location": "Lai Châu, Điện Biên, Sơn La",
-    "description": "The Lao people are a Tai ethnic group native to Southeast Asia, who speak the eponymous language of the Kra–Dai languages, originating from present-day southern China. They are the majority ethnic group of Laos, making up 53.2% of the total population. The majority of Lao people adhere to Theravada Buddhism. The Lào living in Vietnam belong to the Lao Bốc group (or Lao Noi) and are closer to the Thai than to their congeners in Laos.",
-    "link": "https://en.wikipedia.org/wiki/Lao_people"
-  },
-  {
-    "id": 4,
     "group": "Lự",
-    "art": "lu.png",
+    "art": "5.png",
     "population": "6,757",
     "location": "Lai Châu",
     "description": "The Lự people are an ethnic group of China, Laos, Thailand, Burma and Vietnam. They speak a Southwestern Tai language. n Vietnam, Lu are the indigenous people in Mường Thanh (\"Land of the God of Tai people\"). They had built Tam Vạn wall in Mường Thanh and managed there for 19 generations before Hoàng Công Chất, a Thái leader, came. Nowadays, nearly all Vietnamese Lu live in Lai Châu Province. The Lu take their father's last name and have the middle name Bạ (for males) and Ý (for females).",
     "link": "https://en.wikipedia.org/wiki/Tai_Lue_people"
   },
   {
-    "id": 4,
-    "group": "Nùng",
-    "art": "nung.png",
-    "population": "1,083,298",
-    "location": "Lạng Sơn, Cao Bằng, Bắc Giang, Thái Nguyên, Hà Giang, Đắk Lắk",
-    "description": "The Nùng are a Central Tai ethnic group living primarily in northeastern Vietnam and southwestern Guangxi. The Nùng sometimes call themselves as Tho, which literally means autochthonous (indigenous or native to the land). They are the third largest Tai-speaking group, preceded by the Tày and the Thái (Black Tai, White Tai and Red Tai groups), and sixth overall among national minority groups. Their ethnonym is often mingled with that of the Tày people as Tày-Nùng.",
-    "link": "https://en.wikipedia.org/wiki/N%C3%B9ng_people"
+    "id": 5,
+    "group": "Mạ",
+    "art": "6.png",
+    "population": "50,322",
+    "location": "Lâm Đồng, Đắk Nông, Đồng Nai",
+    "description": "The Mạ people are a Mon–Khmer-speaking people in Vietnam. The Mon-Khmer-speaking group called Cho Ro is identified by some ethnologists as a subgroup of the Ma people. Folklore through myths, parables, and legends are integral to Ma culture. The Ma achieved political unity and a stratified society before the 19th century due to the influence of the Funan. This, however, broke down due to varying factors such as the French colonization, inter-group warfare, and slave trading.",
+    "link": "https://en.wikipedia.org/wiki/M%E1%BA%A1_people"
   },
   {
-    "id": 4,
-    "group": "Sán Chay",
-    "art": "san-chay.png",
-    "population": "201,398",
-    "location": "Tuyên Quang, Thái Nguyên, Bắc Giang, Quảng Ninh",
-    "description": "The Sán Chay people live in Tuyên Quang Province of the Northeast region of Vietnam, as well as some nearby provinces. They speak a form of Tai languages. Many live in remote areas, using slash-and-burn agriculture because those areas are not flat enough for paddy rice production. Besides wet rice, the Sán Chay also grow dry crops: corn, potatoes, beans, peanuts, sesame and vegetables. Cattle and poultry supply San Chay people with meat and offerings in religious ceremonies.",
-    "link": "https://en.wikipedia.org/wiki/San_Chay_people"
+    "id": 6,
+    "group": "Ơ Đu",
+    "art": "7.png",
+    "population": "428",
+    "location": "Nghệ An",
+    "description": "Since their population is very small, members of the Ơ Đu ethnic group are being integrated into larger communities. Many Ơ Đu people have forgotten their mother tongue, making those who still know it well respected. After reaching a certain age, many Ơ Đu want to relearn their language to \"return to their roots\". This desire also manifests through recalling ancestral methods and retelling legends connected with the names of villages, rivers, streams and other vestiges in the forest.",
+    "link": "https://en.wikipedia.org/wiki/O_Du_people"
   },
   {
-    "id": 4,
-    "group": "Tày",
-    "art": "tay.png",
-    "population": "1,845,492",
-    "location": "Northern Vietnam",
-    "description": "The Tày people are the second largest ethnic group in Vietnam, only after the majority Kinh group. They speak a language of the Central Tai language group and live in northern Vietnam, along the valleys and the lower slopes of the mountains. Tày villages are usually based at the feet of mountains and are often named after a mountain. Because of their historical close proximity with the majority Viet, the Tày and Viet have some mutual influences with regards to arts and religion",
-    "link": "https://en.wikipedia.org/wiki/T%C3%A0y_people"
-  },
-  {
-    "id": 4,
-    "group": "Thái",
-    "art": "thai.png",
-    "population": "1,820,950",
-    "location": "Northern Vietnam",
-    "description": "The Thái people are the third largest ethnic group in Vietnam, after the majority Kinh group and the Tay people. There are around 93 million people of Tai ancestry worldwide, with populations scattered throughout South China and mainland Southeast Asia. Tai peoples are both culturally and genetically very similar, and are therefore primarily identified through their common Tai language. Thái literature and art are partly influenced by those of the Việt and, to a lesser extent, by those of the Lào and Hán.",
-    "link": "https://en.wikipedia.org/wiki/Tai_peoples"
-  },
-  {
-    "id": 4,
-    "group": "Cờ Lao",
-    "art": "co-lao.png",
-    "population": "4,003",
-    "location": "Hà Giang",
-    "description": "The Co Lao are an ethnic group of China and Vietnam. The main religion practiced is Taoism with a small but significant Buddhist minority. The Co Lao language belongs to the Kadai language family. Today, only a small minority of Co Lao people still speak this language. Since the various Co Lao dialects differ greatly from each other, Mandarin has been used as a lingua franca and is now the main language spoken by Co Lao people. The Miao, Yi and Buyei languages are also used.",
-    "link": "https://en.wikipedia.org/wiki/Gelao_people"
-  },
-  {
-    "id": 4,
-    "group": "La Chí",
-    "art": "la-chi.png",
-    "population": "15,126",
-    "location": "Hà Giang",
-    "description": "The La Chí people live in the Hà Giang and Lào Cai provinces of northeastern Vietnam. They speak the Lachi language, which is part of the Tai–Kadai language group. The La Chi have a very rich heritage of folk literature, including legends and tales about the creation of man (such as Pủ Lô Tô), the origins of this ethnic group (the history of common ancestor Hoàng Din Thùng), natural phenomena, and the rituals of sacrificing buffaloes and oxen at funerals Young people enjoy listening to legends related by elders during festivals.",
-    "link": "https://en.wikipedia.org/wiki/Lachi_people"
-  },
-  {
-    "id": 4,
-    "group": "La Ha",
-    "art": "la-ha.png",
-    "population": "10,157",
-    "location": "Sơn La",
-    "description": "The La Ha are an ethnic group of Vietnam. They speak the Laha language, a type of Tai–Kadai language. The La Ha believe in the existence of supernatural forces, including the spirits of rivers and mountains. They believe forces affect the souls of human beings, causing disease and death. Prayer sessions are often organized to invoke divine protection. As the La Ha live together with the Thái and the Việt, they speak Vietnamese fluently, and many of them also use Thai script.",
-    "link": "https://en.wikipedia.org/wiki/Laha_people"
-  },
-  {
-    "id": 4,
-    "group": "Pu Péo",
-    "art": "pu-peo.png",
-    "population": "903",
-    "location": "Hà Giang",
-    "description": "The Pu Péo people are an ethnic group living in Hà Giang Province, Vietnam and Malipo County of Yunnan province, China. Pu Peo people believe a person has eight souls and nine spirits, all of which control their actions and existence. Most Pu Peo homes have a small altar with three sandstone jars and various other religious items. Each jar represents a generation of ancestors. These items are said to be the deceased ancestors' clues for identifying their descendants.",
-    "link": "https://en.wikipedia.org/wiki/Qabiao_people"
-  },
-  {
-    "id": 4,
-    "group": "Dao",
-    "art": "dao.png",
-    "population": "891,151",
-    "location": "Hà Giang, Tuyên Quang, Lào Cai, Yên Bái, Quảng Ninh",
-    "description": "The Dao people are an ethnic group in Vietnam and Mainland China. The Dao people have been farmers for over a thousand years, mostly rice cultivation through plowing, although a few practice slash-and-burn agriculture. Where the Dao live nearby forested regions, they also engage in hunting. Dao people hold the King Pan festival every year on the sixteenth day of the tenth lunar month, celebrating their mythical origin story",
-    "link": "https://en.wikipedia.org/wiki/Yao_people"
-  },
-  {
-    "id": 4,
-    "group": "Hmong",
-    "art": "hmong.png",
-    "population": "1,393,547",
-    "location": "Northern Vietnam",
-    "description": "The Hmong people are an ethnic group living in southern China, Vietnam, Laos, Thailand, and Myanmar. The Hmông are part of the San Miao (Tam Miêu) of South China. Around the end of the 18lh century and the begining of the 19lh century, they emigrated to Vietnam and built hamlets in the highland regions of Hà Giang and Lào Cai provinces. The history of this emigration is closely linked to that of the Hmông struggle against Chinese feudal lords.",
-    "link": "https://en.wikipedia.org/wiki/Hmong_people"
-  },
-  {
-    "id": 4,
-    "group": "Pà Thẻn",
-    "art": "pa-then.png",
-    "population": "8,248",
-    "location": "Hà Giang, Tuyên Quang",
-    "description": "The Pà Thẻn people are Pa-Hng-speaking people classified as an ethnic group of Vietnam. The Pa-Hng language belongs to the Hmong–Mien language family. Before 1970, the Pa Then practiced slash-and-burn cultivation, but in the present day no longer use this method. Currently Pa Then people grow various kinds of rice, including large-grained glutinous rice, long-grained glutinous rice, red glutinous rice, and non-glutinous rice varieties.",
-    "link": "https://en.wikipedia.org/wiki/Pa_Then_people"
-  },
-  {
-    "id": 4,
-    "group": "Chăm",
-    "art": "cham.png",
-    "population": "178,948",
-    "location": "Ninh Thuận, Bình Thuận, Phú Yên, An Giang, Hồ Chí Minh City, Đồng Nai, Bình Định",
-    "description": "The Chăm or Chàm people are an ethnic group of Austronesian origin in Southeast Asia. The Cham culture is diverse and rich because of the combination of indigenous cultural elements (plains culture, maritime culture, and mountain culture) and foreign cultural features (Indian cultures and religions such as Buddhism; early Han Chinese influences; Islam). The Chăm dress in the traditional manner of the Việt on the plairt, except for women, whose garments are put on over the head.",
-    "link": "https://en.wikipedia.org/wiki/Chams"
-  },
-  {
-    "id": 4,
-    "group": "Chu Ru",
-    "art": "chu-ru.png",
-    "population": "23,242",
-    "location": "Lâm Đồng",
-    "description": "The Chu Ru people live in Lâm Đồng Province, in Vietnam's Central Highlands. They speak Chru, a Malayo-Polynesian language. The Chu Ru people have no script; however, they have preserved a rich treasury of oral literature composed of popular songs, stories in verse, poems and narratives that elderly people recite in the evening. The Chu Ru people adopted some economic innovations from the Cham in the fields of weaving, pottery, and plowing.",
-    "link": "https://en.wikipedia.org/wiki/Churu_people"
-  },
-  {
-    "id": 4,
-    "group": "Ê Đê",
-    "art": "ede.png",
-    "population": "398,671",
-    "location": "Đăk Lăk, Phú Yên",
-    "description": "The Ede are an ethnic group located in southern Vietnam. The Ede language is a Chamic language, a subfamily of the Malayo-Polynesian branch of the Austronesian language family. Ede people practice matrilineal descent, and family property is in the hands of and inherited from women. The basic kinship unit is the matrilineage; these are grouped into higher-level matrilineal sibs. Ede villages are traditionally autonomous and governed by an oligarchy of leading families.",
-    "link": "https://en.wikipedia.org/wiki/Rade_people"
-  },
-  {
-    "id": 4,
-    "group": "Gia Rai",
-    "art": "gia-rai.png",
-    "population": "513,930",
-    "location": "Gia Lai, Kon Tum, Đắk Lắk",
-    "description": "The Gia Rai people are an ethnic group in Vietnam's Central Highlands, as well as in the Cambodian northeast Province of Ratanakiri. The division of Gia Rai people between Cambodia and Vietnam created two distinctive Gia Rai linguistic groups: Gia Rai Khmer and Gia Rai Vietnamese During the Vietnam War, many Gia Rai people worked with US Special Forces, and many were resettled with their families in the United States, particularly in North Carolina, after the war.",
-    "link": "https://en.wikipedia.org/wiki/Jarai_people"
-  },
-  {
-    "id": 4,
-    "group": "Ra Glai",
-    "art": "ra-glai.png",
-    "population": "146,613",
-    "location": "Ninh Thuận, Khánh Hòa, Bình Thuận",
-    "description": "The Ra Glai people are an ethnic group of Vietnam related to the Cham people. The ancestors of Ra Glai people were likely the native speakers of the Malayo-Polynesian language group. According to oral tradition, the Ra Glai people initially used irrigation methods for farming; after their migration to mountainous regions, they began using slash-and-burn cultivation with rice as their staple food crop. They share farming techniques with the Cham people.",
-    "link": "https://en.wikipedia.org/wiki/Raglai_people"
-  },
-  {
-    "id": 4,
-    "group": "Hoa",
-    "art": "hoa.png",
-    "population": "749,466",
-    "location": "Hồ Chí Minh City, Đồng Nai, Sóc Trăng, Kiên Giang, Bắc Giang, Bình Dương",
-    "description": "The Hoa people are Vietnamese people of full or partial Han Chinese ancestry. They are an ethnic minority group in Vietnam and a part of the overseas Chinese community in Southeast Asia. During French occupation of Vietnam, the Hoa people sided with Mainland Chinese forces and French forces in heavily exploiting Vietnamese resources. Today, the Hoa community exists in contemporary Vietnamese society as descendants of Han Chinese who have immigrated to Vietnam throughout the nation's history.",
-    "link": "https://en.wikipedia.org/wiki/Hoa_people"
-  },
-  {
-    "id": 4,
-    "group": "Ngái",
-    "art": "ngai.png",
-    "population": "1,649",
-    "location": "Thái Nguyên, Bình Thuận",
-    "description": "The Ngái people are a Hakka-speaking community in Vietnam and other nearby countries of Indochina, whose ancestors were Southern Chinese. The Ngai language is a variant of Hakka; however, the Vietnamese government believes that Ngai people are not considered Hakka people. Ngái people live either in boats along the coast or on dry coastal land. Ngái people living on the coast do not form villages or hamlets. In the day they go out to the sea; at night they lie at anchor and stay near the shore.",
-    "link": "https://en.wikipedia.org/wiki/Ng%C3%A1i_people"
-  },
-  {
-    "id": 4,
-    "group": "Sán Dìu",
-    "art": "san-diu.png",
-    "population": "183,004",
-    "location": "Thái Nguyên, Vĩnh Phúc, Bắc Giang, Quảng Ninh",
-    "description": "The Sán Dìu people are a Yao ethnic group in northern Vietnam who speak Yue Chinese (Cantonese), a Chinese language. Although the Vietnamese government classifies San Diu as an independent group, the San Diu people are originally a part of Chinese people in Vietnam. They speak a variant of Cantonese, and it is suggested that some still speak Iu Mien. The major religions are Mahayana Buddhism and Taoism, with elements of animism and veneration of the dead.",
-    "link": "https://en.wikipedia.org/wiki/San_Diu_people"
-  },
-  {
-    "id": 4,
+    "id": 7,
     "group": "Cống",
-    "art": "cong.png",
+    "art": "8.png",
     "population": "2,729",
     "location": "Lai Châu, Điện Biên",
     "description": "The Cống people are a tribal people of Laos, Northern Thailand, and Vietnam. They are related to the Mpi people and the Bisu people. They speak Phunoi, a Tibeto-Burman language classified as one of the Loloish languages. The community is divided into several clans, each with its own taboos and customs for ancestor worship. Their primary occupation is slash-and-burn agriculture. They also produce a variety of handicrafts, most notably rattan baskets and mats.",
     "link": "https://en.wikipedia.org/wiki/Phunoi_people"
   },
   {
-    "id": 4,
+    "id": 8,
+    "group": "Hoa",
+    "art": "9.png",
+    "population": "749,466",
+    "location": "Hồ Chí Minh City, Đồng Nai, Sóc Trăng, Kiên Giang, Bắc Giang, Bình Dương",
+    "description": "The Hoa people are Vietnamese people of full or partial Han Chinese ancestry. They are an ethnic minority group in Vietnam and a part of the overseas Chinese community in Southeast Asia. During French occupation of Vietnam, the Hoa people sided with Mainland Chinese forces and French forces in heavily exploiting Vietnamese resources. Today, the Hoa community exists in contemporary Vietnamese society as descendants of Han Chinese who have immigrated to Vietnam throughout the nation's history.",
+    "link": "https://en.wikipedia.org/wiki/Hoa_people"
+  },
+  {
+    "id": 9,
+    "group": "Bố Y",
+    "art": "10.png",
+    "population": "3,232",
+    "location": "Lào Cai, Hà Giang",
+    "description": "The Bố Y people, otherwise known as the Zhongjia, are an ethnic group native to Southern Mainland China, but a subset live in Northern Vietnam. Buddhism, Taoism, and Confucianism exert a strong influence on the spiritual life and every activity of Bo Y society. The Bo Y worship heaven, earth, ancestors, the genies of mountains, soil and forest, Kwan Yin, Hà Bâ (Emperor of Waters), and the spirits of streams, milpas and fire.",
+    "link": "https://en.wikipedia.org/wiki/Bouyei_people"
+  },
+  {
+    "id": 10,
+    "group": "Pu Péo",
+    "art": "11.png",
+    "population": "903",
+    "location": "Hà Giang",
+    "description": "The Pu Péo people are an ethnic group living in Hà Giang Province, Vietnam and Malipo County of Yunnan province, China. Pu Peo people believe a person has eight souls and nine spirits, all of which control their actions and existence. Most Pu Peo homes have a small altar with three sandstone jars and various other religious items. Each jar represents a generation of ancestors. These items are said to be the deceased ancestors' clues for identifying their descendants.",
+    "link": "https://en.wikipedia.org/wiki/Qabiao_people"
+  },
+  {
+    "id": 11,
+    "group": "X’Tiêng",
+    "art": "12.png",
+    "population": "100,752",
+    "location": "Bình Phước",
+    "description": "The Xtiêng people are an ethnic group of Vietnam and Cambodia. The Xtiêng go hunting and gathering for supplementary foods as rice production is difficult and largely dependent on natural conditions. The Xtiêng are masters in the art of fishing and hunting. Fishing is an intensive activity in the rainy season; fish are killed with knives or pointed sticks, or shot at with poisoned arrows. The Xtiêng also catch fish by damming streams, using nets or traps, snares or poisoned arrows.",
+    "link": "https://en.wikipedia.org/wiki/Stieng_people"
+  },
+  {
+    "id": 12,
+    "group": "Kinh",
+    "art": "13.png",
+    "population": "82,085,826",
+    "location": "Throughout Vietnam",
+    "description": "The Kinh people or Viet people, the most predominant ethnic group, accounts for 87% of the population in Vietnam. They live in most regions of the country. Kinh people primarily use the official language of Vietnam, Vietnamese; however, depending on the region, Vietnamese words are pronounced and used in different ways. In Vietnamese society, Kinh people have played a vital part in forming Vietnamese culture and tradition, as well as developing the economy.",
+    "link": "https://en.wikipedia.org/wiki/Vietnamese_people"
+  },
+  {
+    "id": 13,
+    "group": "Hrê",
+    "art": "14.png",
+    "population": "149,460",
+    "location": "Quảng Ngãi, Bình Định",
+    "description": "The Hrê people are an ethnic group of Vietnam that speak a language in the Mon–Khmer family. A Hrê village, an autonomous social unit, sometimes includes up to 100 families. The village chief, elected by the villagers, must be of a certain age, and have not only the requừed moral virtues but also the necessary knowledge and considerable wealth. The Hrê have a long history of patriotic struggle, participating in the Tây Sơn movement and the anti-colonialist resistance.",
+    "link": "https://en.wikipedia.org/wiki/H%27re_people"
+  },
+  {
+    "id": 14,
+    "group": "Cờ Lao",
+    "art": "15.png",
+    "population": "4,003",
+    "location": "Hà Giang",
+    "description": "The Co Lao are an ethnic group of China and Vietnam. The main religion practiced is Taoism with a small but significant Buddhist minority. The Co Lao language belongs to the Kadai language family. Today, only a small minority of Co Lao people still speak this language. Since the various Co Lao dialects differ greatly from each other, Mandarin has been used as a lingua franca and is now the main language spoken by Co Lao people. The Miao, Yi and Buyei languages are also used.",
+    "link": "https://en.wikipedia.org/wiki/Gelao_people"
+  },
+  {
+    "id": 15,
+    "group": "Chơ Ro",
+    "art": "16.png",
+    "population": "29,520",
+    "location": "Đồng Nai, Bà Rịa-Vũng Tàu, Bình Thuận",
+    "description": "The Chơ Ro are a Mon–Khmer ethnic group in Vietnam. They live in houses built on stilts. Both patriarchal and matriarchal customs are significant in Cho Ro culture. Cho Ro people believe  all things have souls and spirits. These spirits have an invisible control over humans, forcing them to participate in worshipping rituals, the most important of which being one paying respect to souls of the forest and the rice plant.",
+    "link": "https://en.wikipedia.org/wiki/Cho_Ro_people"
+  },
+  {
+    "id": 16,
+    "group": "Mnông",
+    "art": "17.png",
+    "population": "127,334",
+    "location": "Đăk Nông, Đăk Lăk, Bình Phước, Lâm Đồng",
+    "description": "The Mnong people are an ethnic group from Vietnam and Cambodia. Mnông villages are generally established at the foot of a mountain, by a river, a stream, or a lake which supplies water for daily use. Traditionally, Mnong people in remote regions eat with their hands and place food within bamboo tubes. Their ordinary diet includes dried fish, small game, and wild vegetables. They rear animals (buffaloes, pigs, chickens and ducks) primarily for sacrificial purposes.",
+    "link": "https://en.wikipedia.org/wiki/Mnong_people"
+  },
+  {
+    "id": 17,
+    "group": "Lào",
+    "art": "18.png",
+    "population": "17,532",
+    "location": "Lai Châu, Điện Biên, Sơn La",
+    "description": "The Lao people are a Tai ethnic group native to Southeast Asia, who speak the eponymous language of the Kra–Dai languages, originating from present-day southern China. They are the majority ethnic group of Laos, making up 53.2% of the total population. The majority of Lao people adhere to Theravada Buddhism. The Lào living in Vietnam belong to the Lao Bốc group (or Lao Noi) and are closer to the Thai than to their congeners in Laos.",
+    "link": "https://en.wikipedia.org/wiki/Lao_people"
+  },
+  {
+    "id": 18,
+    "group": "Chứt",
+    "art": "19.png",
+    "population": "7,513",
+    "location": "Quảng Bình",
+    "description": "The Chut are a small ethnic group located in the Minh Hóa and Tuyên Hóa districts of Quảng Bình Province, in Vietnam's North Central Coast. The Chut are one of the 4 main groups of Vietic speakers in Vietnam, the others being the Kinh, Muong, and Thổ. Though most Chut people live a sedentary life, their villages are quite far from each other and their houses are temporary. Each lineage has its leader and an altar to worship their common ancestors."
+  },
+  {
+    "id": 19,
+    "group": "Co",
+    "art": "20.png",
+    "population": "40,442",
+    "location": "Quảng Ngãi, Quảng Nam",
+    "description": "The Co, or Cor people, are an ethnic group of Vietnam. The Cor believe that all things have souls, including good spirits (garu) and bad spirits. In the past, the Cor lived in houses built on stilts called X'lup, but recently they have transitioned to ground level houses. In the past, all Cor people took the family name of Dinh. Today, due to their respect for former Preseident Ho Chi Minh, all Cor use his name as their official name on their Vietnamese identity papers.",
+    "link": "https://en.wikipedia.org/wiki/Cor_people"
+  },
+  {
+    "id": 20,
+    "group": "Si La",
+    "art": "21.png",
+    "population": "909",
+    "location": "Lai Châu, Điện Biên",
+    "description": "The Si La are an ethnic group living in northern Laos and the northwest region of Vietnam. Si La people speak a Tibeto-Burman language related to Hani. Their primary occupation is the cultivation of cereals, augmented by hunting and foraging. One of the most distinctive Si La customs is tooth painting: men traditionally paint their teeth red, and women paint theirs black. Si La folklore is well-known for historical songs sung at Tết, folksongs, proverbs and legends.",
+    "link": "https://en.wikipedia.org/wiki/Si_La_people"
+  },
+  {
+    "id": 21,
+    "group": "Brâu",
+    "art": "22.png",
+    "population": "525",
+    "location": "Kon Tum, Hồ Chí Minh City, Đồng Nai",
+    "description": "The Brau people are an ethnic group living in Laos, Cambodia, and Vietnam. They speak Brao, a Mon–Khmer language. The Brau have only two surnames: Thao (for male) and Nang (for female). They have customs such as uốt bưng (filing teeth), tavattơpit (strain ears), and chingkrackang (tattoo on forehead). The Brau like to play the gongs and traditional musical instruments. In particular, a set of two gongs called the 'chieng tha' has great value in their culture",
+    "link": "https://en.wikipedia.org/wiki/Brau_people"
+  },
+  {
+    "id": 22,
+    "group": "Khơ Mú",
+    "art": "23.png",
+    "population": "90,612",
+    "location": "Nghệ An, Điện Biên, Sơn La, Lai Châu, Yên Bái",
+    "description": "The Khơ Mú are an ethnic group of Southeast Asia native to Laos. The Khmu are an agricultural society, although gathering, hunting, trapping and fishing are parts of the Khmu lifestyle. Khmu culture is traditionally passed down by the recital of stories around evening fires. The story-telling sessions involve the sharing of silver pipes. Some Khmu are heavily tattooed for both decorative and religious reasons.",
+    "link": "https://en.wikipedia.org/wiki/Khmu_people"
+  },
+  {
+    "id": 23,
+    "group": "Chăm",
+    "art": "24.png",
+    "population": "178,948",
+    "location": "Ninh Thuận, Bình Thuận, Phú Yên, An Giang, Hồ Chí Minh City, Đồng Nai, Bình Định",
+    "description": "The Chăm or Chàm people are an ethnic group of Austronesian origin in Southeast Asia. The Cham culture is diverse and rich because of the combination of indigenous cultural elements (plains culture, maritime culture, and mountain culture) and foreign cultural features (Indian cultures and religions such as Buddhism; early Han Chinese influences; Islam). The Chăm dress in the traditional manner of the Việt on the plairt, except for women, whose garments are put on over the head.",
+    "link": "https://en.wikipedia.org/wiki/Chams"
+  },
+  {
+    "id": 24,
+    "group": "Thổ",
+    "art": "25.png",
+    "population": "91,430",
+    "location": "Nghệ An, Thanh Hóa",
+    "description": "The Thổ ethnic group (also Keo, Mon, Cuoi, Ho, Tay Poong) inhabits the mountainous regions of northern Vietnam, mainly Nghệ An Province southwest of Hanoi. Many Thổ speak the Tho language, which is closely related to Vietnamese. The Tho worship innumerable genies and spirits. They also have great respect for pioneers who have made contributions to the clearing of the land and the building of the village, and for the numerous war heroes.",
+    "link": "https://en.wikipedia.org/wiki/Th%E1%BB%95_people"
+  },
+  {
+    "id": 25,
     "group": "Hà Nhì",
-    "art": "ha nhi.png",
+    "art": "26.png",
     "population": "25,539",
     "location": "Lai Châu, Lào Cai, Điện Biên",
     "description": "The Hà Nhì people are a Lolo-speaking ethnic group in Southern China and Northern Laos and Vietnam. They are officially recognized as an ethnic minority group by both the Vietnamese and Chinese governments. The Ha Nhi people are polytheists and they profess a special adoration toward the spirits of their ancestors. They are used to practicing rituals to venerate the different gods and thus to obtain their protection. Some Ha Nhi also practice Theravada Buddhism.",
     "link": "https://en.wikipedia.org/wiki/Hani_people"
   },
   {
-    "id": 4,
-    "group": "La Hủ",
-    "art": "la-hu.png",
-    "population": "12,113",
-    "location": "Lai Châu",
-    "description": "The La Hủ are an ethnic group of China and Mainland Southeast Asia. The Lahu are divided into subgroups, such as the Lahu Na (Black Lahu), Lahu Nyi (Red Lahu), Lahu Hpu (White Lahu), Lahu Shi (Yellow Lahu) and the Lahu Shehleh. The color in the subgroup name refers to the traditional color of their dress. These groups do not function as tribes or clans - there are no kin groups above that of the family. Lahu trace descent bilaterally, and typically practice matrilocal residence.",
-    "link": "https://en.wikipedia.org/wiki/Lahu_people"
+    "id": 26,
+    "group": "Mường",
+    "art": "27.png",
+    "population": "1,452,095",
+    "location": "Hòa Bình, Thanh Hóa, Phú Thọ, Sơn La, Hà Nội, Ninh Bình",
+    "description": "The Muong is Vietnam's third largest of 53 minority groups, with an estimated population of 1.45 million (according to the 2019 census). The Muong people inhabit the mountainous region of northern Vietnam, concentrated in Hòa Bình Province and the mountainous districts of Thanh Hóa Province. They are most closely related to the ethnic Vietnamese (Kinh).",
+    "link": "https://en.wikipedia.org/wiki/Muong_people"
   },
   {
-    "id": 4,
+    "id": 27,
+    "group": "Nùng",
+    "art": "28.png",
+    "population": "1,083,298",
+    "location": "Lạng Sơn, Cao Bằng, Bắc Giang, Thái Nguyên, Hà Giang, Đắk Lắk",
+    "description": "The Nùng are a Central Tai ethnic group living primarily in northeastern Vietnam and southwestern Guangxi. The Nùng sometimes call themselves as Tho, which literally means autochthonous (indigenous or native to the land). They are the third largest Tai-speaking group, preceded by the Tày and the Thái (Black Tai, White Tai and Red Tai groups), and sixth overall among national minority groups. Their ethnonym is often mingled with that of the Tày people as Tày-Nùng.",
+    "link": "https://en.wikipedia.org/wiki/N%C3%B9ng_people"
+  },
+  {
+    "id": 28,
+    "group": "Pà Thẻn",
+    "art": "29.png",
+    "population": "8,248",
+    "location": "Hà Giang, Tuyên Quang",
+    "description": "The Pà Thẻn people are Pa-Hng-speaking people classified as an ethnic group of Vietnam. The Pa-Hng language belongs to the Hmong–Mien language family. Before 1970, the Pa Then practiced slash-and-burn cultivation, but in the present day no longer use this method. Currently Pa Then people grow various kinds of rice, including large-grained glutinous rice, long-grained glutinous rice, red glutinous rice, and non-glutinous rice varieties.",
+    "link": "https://en.wikipedia.org/wiki/Pa_Then_people"
+  },
+  {
+    "id": 29,
+    "group": "Bru Vân Kiều",
+    "art": "30.png",
+    "population": "94,598",
+    "location": "Quảng Trị, Quảng Bình, Đăk Lăk",
+    "description": "The Bru Van Kieu are an ethnic group living in Thailand, Laos, and Vietnam. The Bru speak Bru, a Katuic Mon–Khmer language, which has several dialects. Villages are usually located near rivers or streams, and houses are arranged in circles around a communal house. Ancestor worship is the most common religious activity, and Bru people pay respects to sacred objects such as sword or bowl fragments. They also worship fire and kitchen deities.",
+    "link": "https://en.wikipedia.org/wiki/Bru_people"
+  },
+  {
+    "id": 30,
+    "group": "Sán Chay",
+    "art": "31.png",
+    "population": "201,398",
+    "location": "Tuyên Quang, Thái Nguyên, Bắc Giang, Quảng Ninh",
+    "description": "The Sán Chay people live in Tuyên Quang Province of the Northeast region of Vietnam, as well as some nearby provinces. They speak a form of Tai languages. Many live in remote areas, using slash-and-burn agriculture because those areas are not flat enough for paddy rice production. Besides wet rice, the Sán Chay also grow dry crops: corn, potatoes, beans, peanuts, sesame and vegetables. Cattle and poultry supply San Chay people with meat and offerings in religious ceremonies.",
+    "link": "https://en.wikipedia.org/wiki/San_Chay_people"
+  },
+  {
+    "id": 31,
     "group": "Lô Lô",
-    "art": "lo-lo.png",
+    "art": "32.png",
     "population": "4,827",
     "location": "Cao Bằng, Hà Giang",
     "description": "The Lo Lo people are an ethnic group in China, Vietnam and Thailand. Lo Lo populations in different areas are very different from one another, making their living in completely different ways. The ancient tales of the Lô Lô reílect their material and spiritual life and their conceptions of the universe. Popular songs describe struggles against natural calamities and oppression, and victory of justice over unjustice. They are sung on moonlit nights, at weddings, and at funerals.",
     "link": "https://en.wikipedia.org/wiki/Yi_people"
   },
   {
-    "id": 4,
+    "id": 32,
+    "group": "Rơ Măm",
+    "art": "33.png",
+    "population": "639",
+    "location": "Kon Tum",
+    "description": "The Ro Mam people are a small ethnic group in Vietnam. They speak a language in the Central Bahnaric branch of the Mon–Khmer family. For the Ro mam, it is a rule that the descendants of the same couple live under the same roof. But each nuclear family forms its own economic unit, cultivates its own milpas, rears its own animals, and eats separately. Hunting, Gathering, Agriculture, and Weaving are the main sources of wealth in current Ro Mam society.",
+    "link": "https://en.wikipedia.org/wiki/R%C6%A1_M%C4%83m_people"
+  },
+  {
+    "id": 33,
+    "group": "La Hủ",
+    "art": "34.png",
+    "population": "12,113",
+    "location": "Lai Châu",
+    "description": "The La Hủ are an ethnic group of China and Mainland Southeast Asia. The Lahu are divided into subgroups, such as the Lahu Na (Black Lahu), Lahu Nyi (Red Lahu), Lahu Hpu (White Lahu), Lahu Shi (Yellow Lahu) and the Lahu Shehleh. The color in the subgroup name refers to the traditional color of their dress. These groups do not function as tribes or clans - there are no kin groups above that of the family. Lahu trace descent bilaterally, and typically practice matrilocal residence.",
+    "link": "https://en.wikipedia.org/wiki/Lahu_people"
+  },
+  {
+    "id": 34,
+    "group": "Xơ Đăng",
+    "art": "35.png",
+    "population": "212,277",
+    "location": "Kon Tum, Quảng Nam, Quảng Ngãi, Đắk Lắk",
+    "description": "The Xo Dang are an ethnic group of Vietnam. Their main source of income is farming, but before the 20th century, mostly relied on hunting and gathering. Their language is part of the Mon–Khmer language family. The spiritual life of the Xo Dang adheres to the cycle of agricultural production. Rituals of a religious nature are concentrated in two periods: the time of land working and allotment of slash-and-burn land, and harvest time.",
+    "link": "https://en.wikipedia.org/wiki/Xo_Dang_people"
+  },
+  {
+    "id": 35,
+    "group": "Xinh Mun",
+    "art": "36.png",
+    "population": "29,503",
+    "location": "Sơn La, Điện Biên",
+    "description": "The Xinh Mui are an ethnic group in Vietnam and Laos. Women and children undertake food gathering, while men go hunting to improve their daily meals. Animal rearing supplies sacrificial offerings to deities and contributes to production. Oxen and buffaloes are generally allowed to wander at will, except the time of ploughing. Barter is the main form of goods exchange: basketry articles, rice, opium and others for cloth, salt, matches and fire-arms.",
+    "link": "https://en.wikipedia.org/wiki/Ksingmul_people"
+  },
+  {
+    "id": 36,
+    "group": "Gia Rai",
+    "art": "37.png",
+    "population": "513,930",
+    "location": "Gia Lai, Kon Tum, Đắk Lắk",
+    "description": "The Gia Rai people are an ethnic group in Vietnam's Central Highlands, as well as in the Cambodian northeast Province of Ratanakiri. The division of Gia Rai people between Cambodia and Vietnam created two distinctive Gia Rai linguistic groups: Gia Rai Khmer and Gia Rai Vietnamese During the Vietnam War, many Gia Rai people worked with US Special Forces, and many were resettled with their families in the United States, particularly in North Carolina, after the war.",
+    "link": "https://en.wikipedia.org/wiki/Jarai_people"
+  },
+  {
+    "id": 37,
+    "group": "Cờ Ho",
+    "art": "38.png",
+    "population": "200,800",
+    "location": "Lâm Đồng, Bình Thuận",
+    "description": "The Cơ Ho people are an ethnic group living in the Lâm Đồng province of Vietnam's Central Highlands. They speak the Co Ho language, a southern Bahnaric branch of Mon–Khmer language. The Co Ho people's folk religion worships a pantheon of gods, including Yang N'Du, the Supreme God, the forest god, the water god, and the fire god. The majority of the Koho people now identify as Christian.",
+    "link": "https://en.wikipedia.org/wiki/Koho_people"
+  },
+  {
+    "id": 38,
+    "group": "Hmong",
+    "art": "39.png",
+    "population": "1,393,547",
+    "location": "Northern Vietnam",
+    "description": "The Hmong people are an ethnic group living in southern China, Vietnam, Laos, Thailand, and Myanmar. The Hmông are part of the San Miao (Tam Miêu) of South China. Around the end of the 18lh century and the begining of the 19lh century, they emigrated to Vietnam and built hamlets in the highland regions of Hà Giang and Lào Cai provinces. The history of this emigration is closely linked to that of the Hmông struggle against Chinese feudal lords.",
+    "link": "https://en.wikipedia.org/wiki/Hmong_people"
+  },
+  {
+    "id": 39,
     "group": "Phù Lá",
-    "art": "phu-la.png",
+    "art": "40.png",
     "population": "12,471",
     "location": "Lào Cai, Yên Bái",
     "description": "The Phù Lá are an ethnic group of Vietnam and China. The Phù Lá speak various Loloish languages, though many are shifting to the Vietnamese language. The Phù Lá honour the cult of their ancestors at annual festivals and cermonies such as Tết, the Gù Shư Mu festival, and Ga Ta Ma Chu festival. During these festivals, sheets of paper are dipped in the blood of sacrificed animals, then folded in the shape of a boat and placed on the altar as offerings. ",
     "link": "https://en.wikipedia.org/wiki/Ph%C3%B9_L%C3%A1_people"
   },
   {
-    "id": 4,
-    "group": "Si La",
-    "art": "si-la.png",
-    "population": "909",
-    "location": "Lai Châu, Điện Biên",
-    "description": "The Si La are an ethnic group living in northern Laos and the northwest region of Vietnam. Si La people speak a Tibeto-Burman language related to Hani. Their primary occupation is the cultivation of cereals, augmented by hunting and foraging. One of the most distinctive Si La customs is tooth painting: men traditionally paint their teeth red, and women paint theirs black. Si La folklore is well-known for historical songs sung at Tết, folksongs, proverbs and legends.",
-    "link": "https://en.wikipedia.org/wiki/Si_La_people"
+    "id": 40,
+    "group": "Chu Ru",
+    "art": "41.png",
+    "population": "23,242",
+    "location": "Lâm Đồng",
+    "description": "The Chu Ru people live in Lâm Đồng Province, in Vietnam's Central Highlands. They speak Chru, a Malayo-Polynesian language. The Chu Ru people have no script; however, they have preserved a rich treasury of oral literature composed of popular songs, stories in verse, poems and narratives that elderly people recite in the evening. The Chu Ru people adopted some economic innovations from the Cham in the fields of weaving, pottery, and plowing.",
+    "link": "https://en.wikipedia.org/wiki/Churu_people"
+  },
+  {
+    "id": 41,
+    "group": "Giáy",
+    "art": "42.png",
+    "population": "67,858",
+    "location": "Lào Cai, Hà Giang, Lai Châu, Yên Bá",
+    "description": "The Giáy people, occasionally called the Nhang, are an ethnic group in Vietnam. The Giáy speak the Bo Y language, a member of the Tai language family. Literacy is low in their native language; however, most Giáy can also speak and write Vietnamese, which they learn in primary school. The Giáy traditionally cultivate rice in paddy fields using simple technology. Water buffalo are raised as draft animals and are used to plow the land.",
+    "link": "https://en.wikipedia.org/wiki/Gi%C3%A1y_people"
+  },
+  {
+    "id": 42,
+    "group": "Cơ Tu",
+    "art": "43.png",
+    "population": "74,173",
+    "location": "Quảng Nam, Thừa Thiên-Huế",
+    "description": "The Cơ Tu people are an ethnic group who live in eastern Laos and central Vietnam. The Co Tu people typically serve rice cooked in bamboo stems such as zăr, aví hor, koo dep, koo gdhoong, and cha chắc, and drink a beverage called tavak. Their famous dances are tung tung (performed by males) and ya yá (performed by females). Traditional Katu homes are on stilts and those who live on the Laotian border are known for growing jute and weaving.",
+    "link": "https://en.wikipedia.org/wiki/Katu_people"
+  },
+  {
+    "id": 43,
+    "group": "Dao",
+    "art": "44.png",
+    "population": "891,151",
+    "location": "Hà Giang, Tuyên Quang, Lào Cai, Yên Bái, Quảng Ninh",
+    "description": "The Dao people are an ethnic group in Vietnam and Mainland China. The Dao people have been farmers for over a thousand years, mostly rice cultivation through plowing, although a few practice slash-and-burn agriculture. Where the Dao live nearby forested regions, they also engage in hunting. Dao people hold the King Pan festival every year on the sixteenth day of the tenth lunar month, celebrating their mythical origin story",
+    "link": "https://en.wikipedia.org/wiki/Yao_people"
+  },
+  {
+    "id": 44,
+    "group": "La Ha",
+    "art": "45.png",
+    "population": "10,157",
+    "location": "Sơn La",
+    "description": "The La Ha are an ethnic group of Vietnam. They speak the Laha language, a type of Tai–Kadai language. The La Ha believe in the existence of supernatural forces, including the spirits of rivers and mountains. They believe forces affect the souls of human beings, causing disease and death. Prayer sessions are often organized to invoke divine protection. As the La Ha live together with the Thái and the Việt, they speak Vietnamese fluently, and many of them also use Thai script.",
+    "link": "https://en.wikipedia.org/wiki/Laha_people"
+  },
+  {
+    "id": 45,
+    "group": "Tày",
+    "art": "46.png",
+    "population": "1,845,492",
+    "location": "Northern Vietnam",
+    "description": "The Tày people are the second largest ethnic group in Vietnam, only after the majority Kinh group. They speak a language of the Central Tai language group and live in northern Vietnam, along the valleys and the lower slopes of the mountains. Tày villages are usually based at the feet of mountains and are often named after a mountain. Because of their historical close proximity with the majority Viet, the Tày and Viet have some mutual influences with regards to arts and religion",
+    "link": "https://en.wikipedia.org/wiki/T%C3%A0y_people"
+  },
+  {
+    "id": 46,
+    "group": "Ra Glai",
+    "art": "47.png",
+    "population": "146,613",
+    "location": "Ninh Thuận, Khánh Hòa, Bình Thuận",
+    "description": "The Ra Glai people are an ethnic group of Vietnam related to the Cham people. The ancestors of Ra Glai people were likely the native speakers of the Malayo-Polynesian language group. According to oral tradition, the Ra Glai people initially used irrigation methods for farming; after their migration to mountainous regions, they began using slash-and-burn cultivation with rice as their staple food crop. They share farming techniques with the Cham people.",
+    "link": "https://en.wikipedia.org/wiki/Raglai_people"
+  },
+  {
+    "id": 47,
+    "group": "Tà Ôi",
+    "art": "48.png",
+    "population": "52,356",
+    "location": "Thừa Thiên-Huế, Quảng Trị",
+    "description": "The Ta-oi ethnic group speaks a language in the Mon–Khmer language family, and is regarded as one of Vietnam's indigenous groups. Fundamental to Ta Oi spiritual life is animism, the belief that natural objects are animated by spirits. Things in nature may all have within them different spirits—each rock, tree, and cloud may have its own unique spirit. Spirits are individual supernatural beings with their own recognizable traits.",
+    "link": "https://en.wikipedia.org/wiki/Ta_Oi_people"
+  },
+  {
+    "id": 48,
+    "group": "Giẻ Triêng",
+    "art": "49.png",
+    "population": "63,322",
+    "location": "Kon Tum, Quảng Nam",
+    "description": "The Gie Trieng people are an ethnic group in Vietnam who live in Vietnam's Central Highlands region. A Gie Trieng village is led by a patriarch, a respected man with profound knowledge of the group’s history, culture, and lifestyle. The Gie Trieng are polytheists and believe that all things have souls and that the Jade Emperor has the supreme power to control everything. They have several rituals for worshiping the Jade Emperor, the communal house, and new rice.",
+    "link": "https://en.wikipedia.org/wiki/Gie_Trieng_people"
+  },
+  {
+    "id": 49,
+    "group": "Ba Na",
+    "art": "50.png",
+    "population": "286,910",
+    "location": "Gia Lai, Kon Tum, Bình Định",
+    "description": "The Bahnar of Ba-Na are an ethnic group of Vietnam living primarily in the Central Highland provinces of Gia Lai and Kon Tum, as well as the coastal provinces of Bình Định and Phú Yên. They speak the Bahnar language that belongs to the Mon–Khmer language family. Their musical instruments are rich with various combinations of gong sets, t’rung xylophones, bro, klong put, ko ni, khinh khung, and to tiep trumpets. The aesthetics of the Ba Na are in their unique wood carvings and extraordinary decorative crafts.",
+    "link": "https://en.wikipedia.org/wiki/Bahnar_people"
+  },
+  {
+    "id": 50,
+    "group": "Ê Đê",
+    "art": "51.png",
+    "population": "398,671",
+    "location": "Đăk Lăk, Phú Yên",
+    "description": "The Ede are an ethnic group located in southern Vietnam. The Ede language is a Chamic language, a subfamily of the Malayo-Polynesian branch of the Austronesian language family. Ede people practice matrilineal descent, and family property is in the hands of and inherited from women. The basic kinship unit is the matrilineage; these are grouped into higher-level matrilineal sibs. Ede villages are traditionally autonomous and governed by an oligarchy of leading families.",
+    "link": "https://en.wikipedia.org/wiki/Rade_people"
+  },
+  {
+    "id": 51,
+    "group": "Ngái",
+    "art": "52.png",
+    "population": "1,649",
+    "location": "Thái Nguyên, Bình Thuận",
+    "description": "The Ngái people are a Hakka-speaking community in Vietnam and other nearby countries of Indochina, whose ancestors were Southern Chinese. The Ngai language is a variant of Hakka; however, the Vietnamese government believes that Ngai people are not considered Hakka people. Ngái people live either in boats along the coast or on dry coastal land. Ngái people living on the coast do not form villages or hamlets. In the day they go out to the sea; at night they lie at anchor and stay near the shore.",
+    "link": "https://en.wikipedia.org/wiki/Ng%C3%A1i_people"
+  },
+  {
+    "id": 52,
+    "group": "Kháng",
+    "art": "53.png",
+    "population": "16,180",
+    "location": "Sơn La, Điện Biên",
+    "description": "The Kháng people are an Austro-Asiatic ethnic group located in northwestern Vietnam. Khang cuisine is known for its hot and sour dishes, and Khang people have the custom named \"tu mui\", which involves drinking by the nose. They grow and exchange raw cotton for cloth or garments made by the Thái. Married women wear their hair in a knot atop their head, while men let their hair fall freely to the shoulders or wear it in a knot at the back of the neck.",
+    "link": "https://en.wikipedia.org/wiki/Khang_people"
+  },
+  {
+    "id": 53,
+    "group": "Khmer",
+    "art": "54.png",
+    "population": "1,319,652",
+    "location": "Sóc Trăng, Trà Vinh, Kiên Giang, An Giang, Bạc Liêu, Bình Dương, Hồ Chí Minh City, Cà Mau, Đồng Nai, Vĩnh Long",
+    "description": "Khmer people are a Southeast Asian ethnic group native to Cambodia, but a significant population reside within the Mekong Delta region of Vietnam. They speak the Khmer language, which is part of the larger Austroasiatic language family found in parts of Southeast Asia. The majority of Khmers are followers of the Khmer style of Buddhism, a highly syncretic version that blends elements of Theravada Buddhism, Hinduism, animism, and veneration of the dead",
+    "link": "https://en.wikipedia.org/wiki/Khmer_people"
   }
 ]

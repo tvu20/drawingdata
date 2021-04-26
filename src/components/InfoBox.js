@@ -3,7 +3,7 @@ import "../styles/InfoBox.css";
 
 class InfoBox extends Component {
   state = {
-    showing: this.props.show,
+    show: false,
     group: this.props.group,
     population: this.props.population,
     location: this.props.location,

@@ -1,8 +1,10 @@
 import React, { Component } from "react";
 import "./App.css";
 import InfoBox from "./components/InfoBox.js";
+import Modal from "./components/Modal.js";
 import Picture from "./components/Picture.js";
 import People from "./components/People.js";
+import Dashboard from "./components/Dashboard.js";
 
 class App extends Component {
   constructor(props) {
@@ -21,9 +23,6 @@ class App extends Component {
           items: json,
         });
       });
-
-    this.handleCallback = this.handleCallback.bind(this);
-    this.handleIndex = this.handleIndex.bind(this);
   }
 
   isShowing = i => {
@@ -34,17 +33,6 @@ class App extends Component {
       return show;
     }
   };
-
-  handleCallback = i => {
-    this.setState({
-      showing: !this.state.showing,
-      index: i,
-    });
-  };
-
-  handleIndex(event) {
-    this.setState({ index: event.target.value });
-  }
 
   renderBox = () => {
     const { items, index } = this.state;
@@ -67,8 +55,7 @@ class App extends Component {
     const { showing, items } = this.state;
     return (
       <div className='container'>
-        <People parentCallback={this.handleCallback}></People>
-        {this.renderBox()}
+        <Dashboard />
       </div>
     );
   }
