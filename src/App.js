@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import "./App.css";
 import InfoBox from "./components/InfoBox.js";
 import Picture from "./components/Picture.js";
+import People from "./components/People.js";
 
 class App extends Component {
   constructor(props) {
@@ -83,8 +84,6 @@ class App extends Component {
     return (
       <div className='container'>
         <h1>Hello world!</h1>
-        {this.renderFlowers()}
-        {this.renderBox()}
       </div>
     );
   }
