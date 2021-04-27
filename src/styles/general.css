@@ -13,7 +13,7 @@ h1 {
   margin-bottom: 10px;
 }
 
-h3 {
+h5 {
   margin: 0;
   margin-bottom: 50px;
   font-weight: 300;
@@ -32,5 +32,19 @@ hr {
 }
 
 .text-wall {
+  max-width: 900px;
   padding: 0 50px;
+  text-align: center;
+}
+
+.header {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.people {
+  padding-top: 120px;
+  width: 100vw;
 }

@@ -18,19 +18,21 @@ class People extends Component {
 
   render() {
     return (
-      <div className='people-container'>
-        {images.map((index, i) => {
-          return (
-            <img
-              key={i}
-              src={index}
-              className='child'
-              onClick={() => this.handleClick(i)}
-            ></img>
-          );
-        })}
+      <React.Fragment>
+        <div className='people-container'>
+          {images.map((index, i) => {
+            return (
+              <img
+                key={i}
+                src={index}
+                className='child'
+                onClick={() => this.handleClick(i)}
+              ></img>
+            );
+          })}
+        </div>
 
-        <div className='text-wall people-description'>
+        <div className='people-description'>
           <p>
             This is a collection of portraits for each of the 54 Vietnamese
             ethnic groups. Upon clicking on each portrait, you can learn more
@@ -63,9 +65,7 @@ class People extends Component {
             they span a range of styles and events.
           </p>
         </div>
-
-        <hr />
-      </div>
+      </React.Fragment>
     );
   }
 }

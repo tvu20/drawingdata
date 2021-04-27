@@ -14,9 +14,17 @@
   width: auto;
   height: auto;
   object-fit: cover;
-  cursor: default;
+  cursor: pointer;
 }
 
 .people-description {
+  display: flex;
+  justify-content: center;
   margin-top: 50px;
+}
+
+.people-description p {
+  max-width: 900px;
+  text-align: center;
+  margin-bottom: 50px;
 }

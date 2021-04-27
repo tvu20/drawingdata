@@ -14,7 +14,7 @@
 .modal-main {
   position: fixed;
   border: 3px solid black;
-  background: lightblue;
+  background: white;
   border-radius: 30px;
   width: 50vw;
   height: auto;
@@ -64,8 +64,13 @@
   height: 30px;
   font-weight: bold;
   width: 200px;
+  cursor: pointer;
 }
 
 .return-button:hover {
-  background-color: white;
+  background-color: lightgray;
+}
+
+.mcontent h2 {
+  font-size: 30px;
 }

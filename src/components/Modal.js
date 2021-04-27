@@ -36,9 +36,16 @@ const Modal = ({ handleClose, show, info }) => {
           <div className='modal-contents'>
             <div className='mcontent text'>
               <h2>{info.group}</h2>
-              <p>Population: {info.population}</p>
-              <p>Location: {info.location}</p>
-              <p>Description: {info.description}</p>
+              <p>
+                <b>Population:</b> {info.population}
+              </p>
+              <p>
+                <b>Location:</b> {info.location}
+              </p>
+              <p>
+                <b>Language Family:</b> {info.language}
+              </p>
+              <p>{info.description}</p>
             </div>
             <div className='mcontent portrait'>
               <img src={images[info.id]}></img>
