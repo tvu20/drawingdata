@@ -8,11 +8,12 @@
 }
 
 .child {
-  flex: 1 1 10%; /* <-- adjusting for margin */
+  flex: 1 1 10%;
   border: 1px solid black;
   min-width: 0px;
   width: auto;
-  height: auto;
+  height: auto !important;
+  max-height: 350px; /* weird safari format issue*/
   object-fit: cover;
   cursor: pointer;
 }
