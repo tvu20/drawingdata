@@ -1,4 +1,5 @@
 import React, { useEffect, useState, useRef } from "react";
+import images from "../images.js";
 
 import "../styles/modal.css";
 
@@ -32,17 +33,24 @@ const Modal = ({ handleClose, show, info }) => {
     <div className={showHideClassName}>
       <section ref={node} className='modal-main'>
         {info && (
-          <div>
-            <h2>{info.group}</h2>
-            <p>Population: {info.population}</p>
-            <p>Location: {info.location}</p>
-            <p>Description: {info.description}</p>
+          <div className='modal-contents'>
+            <div className='mcontent text'>
+              <h2>{info.group}</h2>
+              <p>Population: {info.population}</p>
+              <p>Location: {info.location}</p>
+              <p>Description: {info.description}</p>
+            </div>
+            <div className='mcontent portrait'>
+              <img src={images[info.id]}></img>
+            </div>
           </div>
         )}
 
-        <button type='button' onClick={handleClose}>
-          Close
-        </button>
+        <div className='return'>
+          <div className='return-button' onClick={handleClose}>
+            <h4>Return</h4>
+          </div>
+        </div>
       </section>
     </div>
   );
