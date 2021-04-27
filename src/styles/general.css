@@ -1,4 +1,4 @@
-.body {
+body {
   font-family: "Open Sans", sans-serif;
 }
 
@@ -15,12 +15,13 @@ h1 {
 
 h3 {
   margin: 0;
+  margin-bottom: 50px;
   font-weight: 300;
 }
 
 hr {
   display: block;
-  width: 100%;
+  width: 90%;
   background-color: gray;
   margin-top: 50px;
   margin-bottom: 50px;
@@ -28,4 +29,8 @@ hr {
   margin-right: auto;
   border-style: inset;
   border-width: 1px;
+}
+
+.text-wall {
+  padding: 0 50px;
 }

@@ -1,6 +1,5 @@
 .people-container {
   width: 100vw;
-  height: 100vh;
   display: flex;
   flex-flow: row wrap;
   position: relative;
@@ -15,4 +14,9 @@
   width: auto;
   height: auto;
   object-fit: cover;
+  cursor: default;
+}
+
+.people-description {
+  margin-top: 50px;
 }
