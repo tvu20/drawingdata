@@ -5,6 +5,7 @@ import Maps from "./components/Maps.js";
 import Dashboard from "./components/Dashboard.js";
 import Population from "./components/Population.js";
 import people from "./assets/peoples.png";
+import modern from "./assets/peoples-modern.png";
 
 class App extends Component {
   constructor(props) {
@@ -13,6 +14,7 @@ class App extends Component {
       showing: null,
       items: [],
       index: -1,
+      toggle: false,
     };
 
     fetch("data.json")
@@ -23,6 +25,8 @@ class App extends Component {
           items: json,
         });
       });
+
+    this.handleToggle = this.handleToggle.bind(this);
   }
 
   isShowing = i => {
@@ -32,6 +36,12 @@ class App extends Component {
     } else {
       return show;
     }
+  };
+
+  handleToggle = () => {
+    this.setState({
+      toggle: !this.state.toggle,
+    });
   };
 
   render() {
@@ -44,7 +54,12 @@ class App extends Component {
         <Maps />
         <hr />
         <Population />
-        <img className='people' src={people}></img>
+        <div onClick={this.handleToggle}>
+          <img
+            className='people'
+            src={this.state.toggle ? modern : people}
+          ></img>
+        </div>
         <hr />
         <h5>Final Project for FRS174 - Giao Vu Dinh</h5>
       </div>
