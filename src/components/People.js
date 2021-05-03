@@ -71,6 +71,9 @@ class People extends Component {
             <a href='http://chinhphu.vn/portal/page/portal/chinhphu/NuocCHXHCNVietNam/ThongTinTongHop/dantoc'>
               the Vietnamese oficial government website,
             </a>{" "}
+            <a href='https://en.wikipedia.org/wiki/List_of_ethnic_groups_in_Vietnam'>
+              the general Wikipedia page,{" "}
+            </a>
             and{" "}
             <a href='http://www.cema.gov.vn/gioi-thieu/cong-dong-54-dan-toc.htm'>
               the Committee of Ethnic Affairs website.
