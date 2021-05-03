@@ -47,4 +47,5 @@ hr {
 .people {
   padding-top: 120px;
   width: 100vw;
+  cursor: pointer;
 }

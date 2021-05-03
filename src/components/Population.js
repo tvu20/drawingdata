@@ -12,11 +12,13 @@ class Population extends Component {
           <p>
             A bar graph of the populations of each of the 53 minority ethnic
             groups. Bars are colored based on the language family of the group,
-            with the same code as used in the map portion.
+            with the same code as used in the map portion. Data taken from the
+            official 2019 census.
             <br />
             <br />
-            Data for the Kinh majority group was excluded from the graph, since
-            the total population is around 80 million.
+            Data for the Kinh majority group was excluded from the graphs, since
+            its total population is around 80 million and would heavily skew the
+            data.
           </p>
         </div>
         <img src={pop} />

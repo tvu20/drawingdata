@@ -40,14 +40,6 @@ class People extends Component {
             about their history and traditons.
             <br />
             <br />
-            The statistical information (location and population) for each group
-            was taken from the 2019 census, found on each group's respective
-            Wikipedia page. The more detailed information about each group's
-            customs, holidays, etc. were translated from Vietnamese sources
-            (primarily newspaper articles and textbooks/government sourced
-            materials).
-            <br />
-            <br />
             Each group has multiple distinct traditional outfits for many
             different occasions; it was difficult to find a standard source of
             images for all of the groups because some images had people doing
@@ -63,6 +55,26 @@ class People extends Component {
             portraits are each adapted from a collection of photos. They are all
             accurate representations of traditional dress for each group, but
             they span a range of styles and events.
+            <br />
+            <br />
+            <h3>Data Collection</h3>
+            The statistical information (location and population) for each group
+            was taken from the 2019 census, found on each group's respective
+            Wikipedia page. The more detailed information about each group's
+            customs, holidays, etc. were translated from Vietnamese sources
+            (primarily newspaper articles and textbooks/government sourced
+            materials).
+            <br />
+            <br />
+            Some of the most often referenced sources for this project include{" "}
+            <a href='https://vnexpress.net/'>VNExpress</a>,{" "}
+            <a href='http://chinhphu.vn/portal/page/portal/chinhphu/NuocCHXHCNVietNam/ThongTinTongHop/dantoc'>
+              the Vietnamese oficial government website,
+            </a>{" "}
+            and{" "}
+            <a href='http://www.cema.gov.vn/gioi-thieu/cong-dong-54-dan-toc.htm'>
+              the Committee of Ethnic Affairs website.
+            </a>
           </p>
         </div>
       </React.Fragment>

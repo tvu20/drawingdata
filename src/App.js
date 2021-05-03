@@ -54,6 +54,7 @@ class App extends Component {
         <Maps />
         <hr />
         <Population />
+        <hr />
         <div onClick={this.handleToggle}>
           <img
             className='people'
